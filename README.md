@@ -2,8 +2,7 @@
 
 Ce dépôt accompagne la série **"Construire un LLM from scratch"** publiée sur LinkedIn.
 
-L'objectif est de construire un Large Language Model depuis zéro, brique par brique, en implémentant chaque composant à la main. Pas de boîte noire. Pas de magie. Juste du code, des maths, et de la pédagogie.
-
+L'objectif est de construire un Large Language Model depuis zéro, brique par brique, en implémentant chaque composant à la main. 
 ---
 
 ## Structure du dépôt
